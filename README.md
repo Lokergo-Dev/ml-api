@@ -34,4 +34,7 @@ Reference & Tech stacks
 - [sts-trained-lokergo Model](https://huggingface.co/pahri/sts-trained-lokergo). Our trained model was hosted into HuggingFace repository for easy access
 
 {image tech stack}
+
+C23-VR01 ML Teams.
 </details>
+
