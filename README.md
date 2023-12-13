@@ -17,11 +17,12 @@ encoder
 For Collaborative Filtering, we employ TF-IDF to calculate similarity in preferences between User A and other users. The highest similarity value indicates significant user similarity. Then, users with similar preferences exchange their content-based recommendations with each other, which are then displayed in the third recommendation section on the website platform. Finally, the algorithm is deployed using Fast API to Google Cloud Run, connected to the backend database.</p>
 
 Three recommendation sections on the website:
-1. Content-Based Filtering
-2. Content-Based Filtering + User Location Filter
-3. Collaborative Filtering
-
-{image 3 kolom rekomendasi website nya}
+1. Content-Based Filtering<br>
+   <img src='https://drive.google.com/uc?id=12bTc3tio_TZW0_N3Vf6s3lJdLJMmbyqM' width="600px"><br>
+2. Content-Based Filtering + User Location Filter<br>
+  <img src='https://drive.google.com/uc?id=1Op8kyoUR9ijcnEwUkYPq58TGs7gf95oU' width="600px"><br>
+3. Collaborative Filtering<br>
+  <img src='https://drive.google.com/uc?id=14kroWVRD3lz5-thNJ5YIAshQ5qzkSLQe' width="600px"><br>
 
 Future Improvements:
 - Increase the number of data sources from other platforms.
@@ -33,7 +34,7 @@ Reference & Tech stacks
 - [Difference of Bi-Encoder & Cross-Encoder](https://sbert.net/examples/applications/cross-encoder/README.html). Detailed explaination of bi-encoder and cross-encoder
 - [sts-trained-lokergo Model](https://huggingface.co/pahri/sts-trained-lokergo). Our trained model was hosted into HuggingFace repository for easy access
 
-{image tech stack}
+<img src='https://drive.google.com/uc?id=162FIEdB_0e1j_f8RBFs96WW0Ob0mTqx0' width="600px">
 
 C23-VR01 ML Teams.
 </details>
