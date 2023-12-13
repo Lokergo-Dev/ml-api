@@ -1,0 +1,11 @@
+uvicorn[standard]
+numpy
+sentence_transformers
+fastapi
+pydantic
+tensorflow
+regex
+pandas
+transformers
+scikit-learn
+nltk
