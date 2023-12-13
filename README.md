@@ -1,4 +1,4 @@
-# ml-api
+# ML API
 <h3>The workflow of the recommendation system that we created is outlined below.</h3>
 <img src='https://drive.google.com/uc?id=1U_YSf36WkOkt-K1kyk9lBRF6PO6Rshys' width="100%"><br>
 <img src='https://drive.google.com/uc?id=1Dj0k__gHsvcYCIwJrgQMSafyOdD10968' width="100%">
