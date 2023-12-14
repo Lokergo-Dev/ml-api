@@ -1,8 +1,7 @@
 # ML API
 <h3>The workflow of the recommendation system that we created is outlined below.</h3>
-<img src='https://drive.google.com/uc?id=1U_YSf36WkOkt-K1kyk9lBRF6PO6Rshys' width="100%"><br>
+<img src='https://drive.google.com/uc?id=1SyhHjvLFoBarDX0g2me5iqkV3B-KDYw0' width="100%"><br>
 <img src='https://drive.google.com/uc?id=1Dj0k__gHsvcYCIwJrgQMSafyOdD10968' width="100%">
-
 [Lokergo Flowcharts](https://drive.google.com/file/d/1TDD3FxPrt1yLpuH-R_WcjDbCoGbuIboV/view?usp=sharing). Link to our online flowchart.
 
 - Model A refer to all-MiniLM-L6-v2 and Model B refer to sts-trained-lokergo
